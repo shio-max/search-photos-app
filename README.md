@@ -17,7 +17,7 @@ You can search photos by Pixabay API.
 ・yarn -v 1.22.10  
 
 ## Licence
-MTI
+MIT License
 
 ## Referrence
 

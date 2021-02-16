@@ -8,10 +8,10 @@ You can search photos by Pixabay API.
 
 ## Technologies/Environments  
 
-・HTML/CSS
-・React.js
-・Node.js -v 14.15.4
-・yarn -v 1.22.10
+・HTML/CSS  
+・React.js  
+・Node.js -v 14.15.4  
+・yarn -v 1.22.10  
 
 ## Licence
 
